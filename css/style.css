@@ -1189,5 +1189,9 @@ body {
         .partnered-brands-section h3 {
             font-size: 20px; /* Adjust font size for small screens */
         }
+
+        .logo img{
+            height : 60px !important;
+        }
     }
 
