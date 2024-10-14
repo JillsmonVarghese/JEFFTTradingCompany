@@ -1122,6 +1122,10 @@ body {
         transition: background-color 0.3s ease, box-shadow 0.3s ease;
     }
 
+    #whatsapp-btn-mobile {
+        display:none
+    }
+
     .whatsapp-btn i {
         margin-right: 8px;
     }
@@ -1192,6 +1196,14 @@ body {
 
         .logo img{
             height : 60px !important;
+        }
+
+        #whatsapp-btn-mobile {
+            display : inline-block;
+        }
+
+        #whatsapp-btn-desktop {
+            display : none;
         }
     }
 
