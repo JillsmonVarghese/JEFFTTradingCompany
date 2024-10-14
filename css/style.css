@@ -711,6 +711,10 @@ body {
     right: 0;
     /* z-index: -1; */
   }
+
+  .logo {
+  height : 70px;
+  }
 }
 
 /* Responsive fore large than 768px screen */
