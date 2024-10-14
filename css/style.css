@@ -645,7 +645,9 @@ body {
     --fs-3: 2.8rem;
     --fs-4: 2rem;
   }
-
+  header {
+    height: 50px;
+  }
   /* Reused Style */
   .container {
     max-width: 540px;
