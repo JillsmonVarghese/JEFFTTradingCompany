@@ -309,7 +309,7 @@ body {
   align-items: center;
 }
 .logo img {
-  width: 190px;
+  width: 128px;
 }
 .nav-toggle-icon {
   width: 30px;
@@ -920,7 +920,7 @@ body {
     padding-block: 25px;
   }
   .logo img {
-    width: 190px;
+    width: 128px;
   }
   .header .btn {
     font-size: unset;
